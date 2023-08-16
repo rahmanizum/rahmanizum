@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @rahmanizum
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Mufil Rahman A
 
-<!---
-rahmanizum/rahmanizum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hello there! I'm Mufil Rahman A, a passionate Full Stack Developer in the making. 🚀
+
+## About Me
+
+🎓 I've recently completed my journey in mastering Data Structures and Algorithms using Java, which has equipped me with a solid foundation to tackle complex problems efficiently.
+
+🌐 Currently, I'm immersing myself in the world of web development, with a keen focus on HTML, CSS, and JavaScript. I believe in creating seamless and user-friendly experiences on the web, and I'm excited about turning ideas into interactive and visually appealing applications.
+
+🚀 My journey in Full Stack development is a continuous learning adventure, and I am always eager to stay up-to-date with the latest trends and technologies in the field.
+
+## Skills
+
+- 💻 Java (DSA)
+- 🌐 HTML, CSS, JavaScript
+- ⚙️ Full Stack Development
+
+## Get in Touch
+
+📫 You can reach out to me via email at [ramanizum@gmail.com](mailto:ramanizum@gmail.com)
+
+Let's code the future together! 💡🌟
+
