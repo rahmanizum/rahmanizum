@@ -14,7 +14,7 @@
 
 - 💻 Java (DSA)
 - 🌐 HTML, CSS, JavaScript
-- ⚙️ Full Stack Development
+- 🚀 Node.js and Express.js (Server-side JavaScript)
 
 ## Get in Touch
 
