@@ -1,24 +1,33 @@
 # Mufil Rahman A
-
-👋 Hello there! I'm Mufil Rahman A, a passionate Full Stack Developer in the making. 🚀
+👋 Hello there! I'm Mufil Rahman A, a Software Engineer specializing in full-stack development with expertise in AI integration.
 
 ## About Me
+💼 Currently working as a Software Engineer at SimpliContract, where I develop enterprise-grade solutions using modern technologies.
 
-🎓 I've recently completed my journey in mastering Data Structures and Algorithms using Java, which has equipped me with a solid foundation to tackle complex problems efficiently.
+🚀 I've engineered AI-driven systems for document processing, secure database management solutions, and scalable contract lifecycle management platforms.
 
-🌐 Currently, I'm immersing myself in the world of web development, with a keen focus on HTML, CSS, and JavaScript. I believe in creating seamless and user-friendly experiences on the web, and I'm excited about turning ideas into interactive and visually appealing applications.
+🔍 My passion lies in building robust, scalable applications that leverage cutting-edge technologies to solve complex business problems.
 
-🚀 My journey in Full Stack development is a continuous learning adventure, and I am always eager to stay up-to-date with the latest trends and technologies in the field.
+🌱 I'm continually expanding my knowledge in AI & ML, particularly focusing on Large Language Models, RAG systems, and AI agents.
 
-## Skills
+## Technical Expertise
+- 🧠 **AI & Machine Learning:** Amazon Bedrock, Azure AI Services, Gemini, LangChain, Prompt Engineering, RAG, Agents, LLMs
+- 🌐 **Frontend:** React, Angular, NgRx, Bootstrap
+- 🔧 **Backend:** Python (FastAPI, Quart), Node.js, Express.js
+- 🗄️ **Databases:** PostgreSQL, MySQL, MongoDB, SQLAlchemy
+- ☁️ **Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, CI/CD pipelines
+- 🔐 **Security:** JWT authentication, MSAL, Role-based access control
 
-- 💻 Java (DSA)
-- 🌐 HTML, CSS, JavaScript
-- 🚀 Node.js and Express.js (Server-side JavaScript)
+## Projects
+- 🤖 **AI-Powered Chat Agent:** Botpress-based chatbot with WhatsApp integration using LLMs & RAG
+- 💰 **Expense Tracker:** Full-stack application with authentication, user roles, and payment integration
+- 🛒 **E-commerce Platform:** Secure online store with admin/customer panels and Razorpay integration
+- 💬 **Real-time Chat Application:** Feature-rich messaging platform with multimedia support and secure authentication
 
 ## Get in Touch
+📫 Email: [mufilrahman.a@gmail.com](mailto:mufilrahman.a@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/mufil-rahman/](https://linkedin.com/in/mufil-rahman/)  
+💻 GitHub: [github.com/mufil-rahman/](https://github.com/mufil-rahman/)  
+🌐 Website: [https://mufilrahman.com/](https://mufilrahman.com/)
 
-📫 You can reach out to me via email at [ramanizum@gmail.com](mailto:ramanizum@gmail.com)
-
-Let's code the future together! 💡🌟
-
+Let's build intelligent, scalable solutions together! 💡🚀
